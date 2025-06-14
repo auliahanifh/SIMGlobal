@@ -23,7 +23,7 @@ The creation and testing of the SIMGlobal prototype were carried out using Figma
   The application does not support temporary data saving during form completion; users must finish the process in a single session.
 
 
-## _Wizard of Oz_
+## Wizard of Oz
 
 Several features in this prototype are not yet implemented or are only partially functional. These simulated features include: logging in with myITS, program search, program registration, registration progress bar, direct message functionality, applicant dashboard, adding programs and registration forms, and displaying messages from applicants. These features are designed to illustrate the intended user experience and workflow, even though the backend processes are not fully integrated at this stage.
 
