@@ -8,13 +8,13 @@ The SIMGlobal High Fidelity (HiFi) Prototype can be accessed through the followi
 
 ---
 
-## Penggunaan
+## Implementation
 
 The creation and testing of the SIMGlobal prototype were carried out using Figma. Figma provides interactive features that enable real-time user flow testing, allowing designs to be developed and tested quickly by users. In addition, we can receive direct and more accurate feedback for feature development. When you open our Figma link, there are two user Points of View (POV) options in the prototype to distinguish business processes according to each user's needs. Users can use the cursor or touch-screen, depending on their device, to try out the prototype in Figma.
 
 ---
 
-## Limitasi Aplikasi
+## Limitation
 
 - **Editing Form Data**
   The feature to edit previously entered data in the program post or registration form is not available.
@@ -33,7 +33,7 @@ Several features in this prototype are not yet implemented or are only partially
 
 ---
 
-## Fitur Hard-Coded
+## Hard-Coded Features
 
 Currently, the SIMGlobal system does not have a database, so several features use dummy data provided by the development team. The implementation details are as follows:
 
