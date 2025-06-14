@@ -4,7 +4,7 @@ SIMGlobal is an international service application at ITS managed by ITS Global E
 
 ## HiFi Prototype
 
-The SIMGlobal High Fidelity (HiFi) Prototype can be accessed through the following link -> [Figma HiFi Prototype](https://figma.com/design/mzz8S6sShRV2U0YbOvD8Fc/UI-UX-SIMGlobal?node-id=589-9768&t=uNPUkUA6V6PyPYqc-1)
+The SIMGlobal High Fidelity (HiFi) Prototype can be accessed through the following link -> [SIMGlobal HiFi Prototype](https://figma.com/design/mzz8S6sShRV2U0YbOvD8Fc/UI-UX-SIMGlobal?node-id=589-9768&t=uNPUkUA6V6PyPYqc-1)
 
 ---
 
